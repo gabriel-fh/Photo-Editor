@@ -26,7 +26,7 @@ Este é um projeto de um editor de fotos desenvolvido em HTML, CSS e JavaScript.
 
 1. Clone o repositório para o seu ambiente local:
    
-   `git clone https://github.com/gabriel-fh/Photo-Edito.git`
+   `git clone https://github.com/gabriel-fh/Photo-Editor.git`
    
 3. Abra o arquivo `index.html` em um navegador web.
 

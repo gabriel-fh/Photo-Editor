@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editor de Fotos</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+</head>
+
+<body>
+    <header class="header">
+        <h1>Editor de Foto</h1>
+    </header>
+    <main class="container">
+        <div class="editor-container">
+            <section class="image-container">
+                <img src="./assets/image/Archway-Islands-Wharariki-Beach-768x432.jpg">
+            </section>
+            <div class="filter-container">
+                <section class="filter-item">
+                    <p>Brilho</p>
+                    <input class="input-range" id="brightness" type="range" min="0" max="200">
+                </section>
+                <section class="filter-item">
+                    <p>Contraste</p>
+                    <input class="input-range" id="contrast" type="range" min="0" max="200">
+                </section>
+                <section class="filter-item">
+                    <p>Saturação</p>
+                    <input class="input-range" id="saturate" type="range" min="0" max="200">
+                </section>
+                <section class="filter-item">
+                    <p>Matriz</p>
+                    <input class="input-range" id="hue-rotate" type="range" min="0" max="360">
+                </section>
+                <section class="filter-item">
+                    <p>Desfoque</p>
+                    <input class="input-range" id="blur" type="range" min="0" max="25">
+                </section>
+                <section class="filter-item">
+                    <p>Grayscale</p>
+                    <input class="input-range" id='grayscale'type="range" min="0" max="100">
+                </section>
+            </div>
+            <section class="rotation-container">
+                <button id="scaleY"><i class="bi bi-symmetry-horizontal"></i></button>
+                <button id="scaleX"><i class="bi bi-symmetry-vertical"></i></button>
+            </section>
+            <section class="file-container">
+                <form action="">
+                    <label for="file">Escolher Imagem</label>
+                    <input class="file" type="file" id="file"></input>
+                    <button class="save">Salvar Imagem</button>
+                    <button class="reset">Resetar</button>
+                </form>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <p>Photo Editor &copy; 2023 - Todos os direitos reservados | Desenvolvido por: <a
+            href="https://github.com/gabriel-fh" target="_blank">Gabriel F. Hermenegildo</a></p>
+    </footer>
+    <script src="./assets/js/script.js"></script>
+</body>
+
+</html>

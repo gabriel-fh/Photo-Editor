@@ -33,7 +33,7 @@ Existem duas maneiras de usar este projeto:
 2. **Acessando via GitHub Pages:**
    - Você também pode acessar a versão online deste projeto através do [GitHub Pages](https://gabriel-fh.github.io/Photo-Editor/).
    - Acesse a URL do GitHub Pages no seu navegador.
-   - Realize o mesmo processo descrito anteriormente para ultilizar o Editor
+   - Realize o mesmo processo descrito anteriormente para ultilizar o Editor.
 
 ## Contribuição
 Sinta-se à vontade para contribuir com o projeto ou fazer sugestões de melhorias. Divirta-se editando suas fotos!

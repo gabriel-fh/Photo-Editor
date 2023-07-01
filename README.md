@@ -3,13 +3,11 @@
 Este é um projeto de um editor de fotos desenvolvido em HTML, CSS e JavaScript. Com ele, você pode editar imagens ao ajustar o brilho, contraste, saturação, matriz de cores, desfoque e aplicar o efeito de escala de cinza. Além disso, é possível espelhar a imagem verticalmente e horizontalmente, resetar todas as funcionalidades para os valores iniciais e carregar uma nova imagem do dispositivo do usuário. O editor também permite salvar a imagem editada no dispositivo do usuário.
 
 ## Recursos Utilizados
-
 - Manipulação de eventos
 - Objetos e Arrays
 - Canvas para salvar a imagem editada
 
 ## Funcionalidades
-
 - Ajustar brilho
 - Ajustar contraste
 - Ajustar saturação
@@ -23,6 +21,7 @@ Este é um projeto de um editor de fotos desenvolvido em HTML, CSS e JavaScript.
 - Salvar imagem editada
 
 ## Como usar
+Existem duas maneiras de usar este projeto:
 
 1. **Clonando o repositório:**
    - Faça o clone deste repositório.
@@ -36,11 +35,9 @@ Este é um projeto de um editor de fotos desenvolvido em HTML, CSS e JavaScript.
    - Acesse a URL do GitHub Pages no seu navegador.
    - Realize o mesmo processo descrito anteriormente para ultilizar o Editor
 
-## GitHub Pages
-
-Você também pode acessar este projeto através do [GitHub Pages](link do GitHub Pages) para experimentar o editor de fotos online.
-
+## Contribuição
 Sinta-se à vontade para contribuir com o projeto ou fazer sugestões de melhorias. Divirta-se editando suas fotos!
 
-   
+## Licença
+Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).  
 

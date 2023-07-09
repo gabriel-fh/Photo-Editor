@@ -21,19 +21,13 @@ Este é um projeto de um editor de fotos desenvolvido em HTML, CSS e JavaScript.
 - Salvar imagem editada
 
 ## Como usar
-Existem duas maneiras de usar este projeto:
 
-1. **Clonando o repositório:**
-   - Faça o clone deste repositório.
-   - Abra o arquivo `index.html` em um navegador web.
-   - Selecione uma imagem para edição clicando no botão "Escolher Imagem" e navegando pelo dispositivo do usuário.
-   - Utilize as opções de edição fornecidas para ajustar a imagem de acordo com suas preferências.
-   - Para salvar a imagem editada, clique no botão "Salvar Imagem" e escolha um local no dispositivo para salvar o arquivo. O recurso de salvamento é habilitado pelo uso do elemento Canvas do JavaScript.
-
-2. **Acessando via GitHub Pages:**
-   - Você também pode acessar a versão online deste projeto através do [GitHub Pages](https://gabriel-fh.github.io/Photo-Editor/).
-   - Acesse a URL do GitHub Pages no seu navegador.
-   - Realize o mesmo processo descrito anteriormente para ultilizar o Editor.
+- Faça o clone deste repositório.
+- Abra o arquivo `index.html` em um navegador web.
+- Selecione uma imagem para edição clicando no botão "Escolher Imagem" e navegando pelo dispositivo do usuário.
+- Utilize as opções de edição fornecidas para ajustar a imagem de acordo com suas preferências.
+- Para salvar a imagem editada, clique no botão "Salvar Imagem" e escolha um local no dispositivo para salvar o arquivo. O recurso de salvamento é habilitado pelo uso do elemento Canvas do JavaScript.
+- Você também pode acessar a versão online deste projeto através do [GitHub Pages](https://gabriel-fh.github.io/Photo-Editor/).
 
 ## Contribuição
 Sinta-se à vontade para contribuir com o projeto ou fazer sugestões de melhorias. Divirta-se editando suas fotos!
